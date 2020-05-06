@@ -1,0 +1,11 @@
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\bin\Debug\netcoreapp3.1\LAB3.0OOP.exe
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\bin\Debug\netcoreapp3.1\LAB3.0OOP.deps.json
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\bin\Debug\netcoreapp3.1\LAB3.0OOP.runtimeconfig.json
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\bin\Debug\netcoreapp3.1\LAB3.0OOP.runtimeconfig.dev.json
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\bin\Debug\netcoreapp3.1\LAB3.0OOP.dll
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\bin\Debug\netcoreapp3.1\LAB3.0OOP.pdb
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\obj\Debug\netcoreapp3.1\LAB3.0OOP.csprojAssemblyReference.cache
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\obj\Debug\netcoreapp3.1\LAB3.0OOP.AssemblyInfoInputs.cache
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\obj\Debug\netcoreapp3.1\LAB3.0OOP.AssemblyInfo.cs
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\obj\Debug\netcoreapp3.1\LAB3.0OOP.dll
+C:\Users\teat5\source\repos\LAB3.0OOP\LAB3.0OOP\obj\Debug\netcoreapp3.1\LAB3.0OOP.pdb
